@@ -17,7 +17,7 @@ from within each individual folder as:
 go run ~/go/src/github.com/ren-zxcq/gorest/muxRouter/main.go
 ```
 
-- if you want to know what a "module" does, in respect to the repo structure showed above:
+- if you want to know what a "module" does, in respect to the repo structure shown above:
 ```
 go doc gorest/muxRouter
 ```
