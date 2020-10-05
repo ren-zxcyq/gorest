@@ -5,7 +5,7 @@ Web programming examples in Golang.
 from within each individual folder as:
 
 ```
-// The repo structure is the following:
+// Repo structure:
 	~/go/src/github.com/ren-zxcyq/gorest$ tree
 	.
 	├── muxRouter
